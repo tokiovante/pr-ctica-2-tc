@@ -1,1 +1,1 @@
-# pr-ctica-2-tc
+# practica-2-tc
